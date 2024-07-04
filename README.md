@@ -1,11 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm David O. Folagbade</h1>
 <h3 align="center">A passionate and outstanding financial data enthusiast</h3>
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBGnR6JjMTYOLSjSM_bRMpaJaQUyjBuKW4XQ&s
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alaskadav" alt="alaskadav" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/folagbadedavid" target="blank"><img src="https://img.shields.io/twitter/follow/folagbadedavid?logo=twitter&style=for-the-badge" alt="folagbadedavid" /></a> </p>
 
 - 🔭 I’m currently working on **series of Projects**
 
