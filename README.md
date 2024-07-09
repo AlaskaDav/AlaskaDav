@@ -1,18 +1,26 @@
 <h1 align="center">Hi 👋, I'm David O. Folagbade</h1>
-<h3 align="center">A passionate and outstanding financial data enthusiast</h3>
+<h3 align="center">A passionate and professional financial data enthusiast with vast experience in data analytics and financial reporting</h3>
 
 
 - 🔭 I’m currently working on **series of Projects**
+
+- 📉 I enjoy cleaning data, creating visualization and reports from insights obtained from data.
+
+- 💰 I love providing financial advice and solutions to organization's problems. 
 
 - 🌱 I’m currently learning **SQl and Python for data Analysis and Data Sciences**
 
 - 👯 I’m looking to collaborate with **Tech Experts and IT gurus** *FinTech*
 
+- 🧑‍💻 I am a Tech guy, leveraging all IT for efficiency and effectiveness.
+
 - 💬 Ask me about **anything data.**
 
 - 📫 How to reach me **alaskadavid1994@gmail.com**
 
-- ⚡ Fun fact **I am Jovial and fun to be with. I love working with team**
+- ⚡ Fun fact **I am jovial and fun to be with. I love working with team**
+
+- ✈️ I love travelling, exploring new environments and technology.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
