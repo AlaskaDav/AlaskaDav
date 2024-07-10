@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm David O. Folagbade</h1>
-<h3 align="center">A passionate and professional financial data enthusiast with vast experience in data analytics and financial reporting</h3>
+<h3 align="center">A passionate and professional financial data analyst with vast experience in providing advanced analysis and financial reporting</h3>
 
+- 📚 I am an Associate Chartered Accountant (ACA).
 
 - 🔭 I’m currently working on **series of Projects**
 
@@ -14,7 +15,7 @@
 
 - 🧑‍💻 I am a Tech guy, leveraging all IT for efficiency and effectiveness.
 
-- 💬 Ask me about **anything data.**
+- 💬 Ask me about **Accounting/Finance and Data**
 
 - 📫 How to reach me **alaskadavid1994@gmail.com**
 
