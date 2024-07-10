@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate with **Tech Experts and IT gurus** *FinTech*
 
-- 🧑‍💻 I am a Tech guy, leveraging all IT for efficiency and effectiveness.
+- 🧑‍💻 I am a Tech guy, leveraging IT for efficiency and effectiveness.
 
 - 💬 Ask me about **Accounting/Finance and Data**
 
